@@ -1,6 +1,6 @@
 # Bad unten – Fotoanalyse und erste Varianten
 
-Stand: 6. November 2026. Grundlage: die drei [hochgeladenen Fotos](fotos/README.md). Noch keine gemessenen Abmessungen vorhanden; kein konkretes Möbel ist als passend bestätigt.
+Stand: 6. November 2026. Grundlage: die inzwischen vier [hochgeladenen Fotos](fotos/README.md), jetzt mit Maßangaben. Die [übertragenen Fotomaße und Folgerungen](masse.md) ergänzen diese erste Gestaltungseinschätzung. Noch kein konkretes Möbel ist als passend bestätigt.
 
 ## Auf den Fotos erkennbar
 
@@ -10,7 +10,7 @@ Stand: 6. November 2026. Grundlage: die drei [hochgeladenen Fotos](fotos/README.
 - Oberhalb dieser Ablage gibt es freie Rückwand zwischen den Seitenwänden. Eine Lüftungsöffnung sitzt hoch an der linken Wand.
 - Holzdecke und Holztür geben bereits einen warmen Holzton vor.
 
-Nicht aus Fotos ableitbar: exakte Maße, Wandaufbau, Leitungswege, zulässige Lasten und Bohrstellen, Mietbedingungen oder Modell des Waschbeckens. Aus der Perspektive und den Fliesen wird kein Maß geschätzt.
+Maße werden nur aus den Nutzerbeschriftungen übernommen, nicht aus Perspektive oder Fliesen geschätzt. Wandaufbau, Leitungswege, zulässige Lasten und Bohrstellen, Mietbedingungen und Modell des Waschbeckens sind weiterhin nicht bestätigt.
 
 ## Wie der Vorsprung heißt
 
@@ -46,7 +46,7 @@ Die folgenden Entwürfe sind Vorschläge für diesen Raum, keine verifizierten N
 
 Meine erste Empfehlung: kleiner weißer Unterschrank plus zwei flache Böden in hellem Holz. Falls viel geschlossener Stauraum gebraucht wird, die oberen Böden durch einen flachen weißen Hängeschrank ersetzen.
 
-Als erster Entwurfsbereich für obere Regale oder Schränke kommen etwa 15–20 cm Tiefe infrage. Das ist eine Gestaltungsannahme, kein gemessenes oder bestätigtes Möbelmaß. Möglichst nicht über die Vorderkante der Vorwandablage hinausragen; Kopffreiheit im Sitzen und beim Aufstehen prüfen. Ein bodenstehendes Über-WC-Regal mit langen Beinen erscheint hier wegen der vorhandenen Vorwand und des knappen Raums weniger günstig.
+Die inzwischen eingetragene Ablagetiefe beträgt nur **14 cm**. Für bündige Böden daher etwa 14 cm Tiefe planen. Ein 17 cm tiefer Hängeschrank würde bereits 3 cm vorstehen, ein 20 cm tiefer 6 cm; ein solcher Überstand muss mit Montagehöhe und Kopffreiheit im Sitzen und beim Aufstehen geprüft werden. Die frühere Entwurfsspanne von 15–20 cm ist dadurch konkretisiert, nicht als passend bestätigt. Ein bodenstehendes Über-WC-Regal mit langen Beinen erscheint hier wegen der vorhandenen Vorwand und des knappen Raums weniger günstig.
 
 Die Betätigungsplatte dient bei vielen Unterputzspülkästen auch als Wartungszugang und muss bedienbar und abnehmbar bleiben. Keine ungeprüften Bohrungen in die Spülkastenverkleidung; auch die obere Wand vor Befestigungen auf Aufbau und Leitungen prüfen. Die Lüftung bleibt frei.
 
@@ -64,4 +64,4 @@ Externe IKEA- und IKEA-Hackers-Seiten waren beim Rechercheversuch durch die Netz
 
 ## Nächster Schritt
 
-Die [gezielte Messliste](messliste.md) ausfüllen. Danach konkrete gebrauchte Möbel nach Außenmaßen, Innenraum für Rohre und Öffnungsbereichen vergleichen.
+Die noch offenen Bezugspunkte in den [Fotomaßen](masse.md) klären. Danach konkrete gebrauchte Möbel nach Außenmaßen, Innenraum für Rohre und Öffnungsbereichen vergleichen.

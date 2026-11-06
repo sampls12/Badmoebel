@@ -1,6 +1,6 @@
 # Bad unten – Möbelideen
 
-Die ersten raumbezogenen Varianten stehen in der [Fotoanalyse](fotoanalyse.md). Noch kein konkretes Möbel oder IKEA-Modell als passend bestätigt; dafür fehlen die [Maße](messliste.md).
+Die ersten raumbezogenen Varianten stehen in der [Fotoanalyse](fotoanalyse.md). Die [Fotomaße](masse.md) grenzen die Suche ein: unten zunächst etwa 45–50 cm breite und 25–30 cm tiefe Schränke mit Türen und Siphonraum; oben etwa 14 cm tiefe Regalböden oder flache Hängeschränke, deren Überstand geprüft wird. Noch kein konkretes Möbel oder IKEA-Modell als passend bestätigt; einzelne Bezugspunkte und Höhen sind weiterhin offen.
 
 ## Mögliche Suchrichtungen
 

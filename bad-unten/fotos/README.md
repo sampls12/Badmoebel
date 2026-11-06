@@ -1,12 +1,13 @@
 # Fotos und Skizzen – Bad unten
 
-Hier liegen die drei vom Nutzer hochgeladenen Fotos:
+Hier liegen vier vom Nutzer hochgeladene Fotos. Die ersten drei wurden beim jüngsten Upload durch Versionen mit Maßangaben ersetzt; die Seitenansicht kam hinzu:
 
-- [IMG_1340.jpeg](IMG_1340.jpeg): Überblick mit Waschplatz, WC und Vorwandablage.
-- [IMG_1341.jpeg](IMG_1341.jpeg): Waschbecken von vorne, einschließlich Siphon und Wasseranschlüssen.
-- [IMG_1342.jpeg](IMG_1342.jpeg): Waschbecken von oben; Datei liegt seitlich gedreht vor.
+- [IMG_1340.jpeg](IMG_1340.jpeg): Überblick; Vorwandbreite 1,26 m, Ablagetiefe 14 cm und Höhe 1,17 m.
+- [IMG_1341.jpeg](IMG_1341.jpeg): Waschbecken von vorne; eingetragene Höhen von Keramik, Siphon und Ventilbereich.
+- [IMG_1342.jpeg](IMG_1342.jpeg): Waschbecken von oben, jetzt aufrecht; Becken 50 × 35 cm.
+- [IMG_1344.jpeg](IMG_1344.jpeg): Siphon von der Seite; Maß 18,5 cm, dessen genaue Endpunkte noch zu bestätigen sind.
 
-Die [erste Auswertung](../fotoanalyse.md) und eine [Messliste](../messliste.md) sind vorhanden. Die Originalfotos bleiben unverändert.
+Die [erste Auswertung](../fotoanalyse.md), [übertragenen Maße](../masse.md) und eine [Messliste](../messliste.md) sind vorhanden. Die vom Nutzer hochgeladenen Bilddateien wurden bei der Auswertung nicht verändert.
 
 Hilfreiche Motive:
 
