@@ -15,6 +15,7 @@ Es sind noch keine Möbel ausgewählt oder Käufe beschlossen. Erste Maße liege
 - [Fotoanalyse und erste Varianten](bad-unten/fotoanalyse.md)
 - [Gezielte Messliste für Waschplatz und WC](bad-unten/messliste.md)
 - [Möbelideen und Varianten](bad-unten/ideen.md)
+- [Spiegelschrank: Visualisierungen in Weiß und Eichenachbildung](bad-unten/visualisierungen/README.md)
 - [Einkaufsliste](bad-unten/einkaufsliste.md)
 - [Fotos und Skizzen](bad-unten/fotos/README.md)
 

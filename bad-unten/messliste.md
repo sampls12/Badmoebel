@@ -35,11 +35,11 @@ Kandidat aus dem Chat: **60 cm breit, 15 cm tief, 95 cm hoch**, siehe [Möbelide
 
 | Kürzel | Was messen? | Wert |
 | --- | --- | --- |
-| S1 | Boden bis Unterkante der vorhandenen Wandleuchte | offen |
-| S2 | Boden bis höchster Punkt der Armatur | offen |
-| S3 | Ausladung der Wandleuchte ab Fliesenwand | offen |
+| S1 | Boden bis Unterkante der vorhandenen Wandleuchte | 170, nachgereichte Nutzerangabe |
+| S2 | Boden bis höchster Punkt der Armatur | 102, nachgereichte Nutzerangabe |
+| S3 | Ausladung der Wandleuchte ab Fliesenwand | Für die aktuelle Variante entfällt die bisherige separate Leuchte. |
 
-Damit zunächst die mögliche Montagehöhe prüfen. Anschließend freie Breite und Türschwenkbereich am vorgesehenen Platz abgleichen. Der bestehende kleine Spiegel würde bei dieser Variante ersetzt. Ob die Leuchte bleiben soll, ist noch zu klären.
+Der Schrank mit integrierter Beleuchtung ersetzt in der aktuellen Variante den bestehenden Spiegel und die separate Leuchte. Der Nutzer vergleicht zunächst die [Optikvarianten](visualisierungen/README.md). Endgültige Montagehöhe und Türschwenkbereich werden vor Umsetzung abgeglichen.
 
 ## D. Drei kurze Angaben
 

@@ -10,13 +10,13 @@ Bewertete Platzierung: **über dem Waschbecken anstelle des vorhandenen Spiegels
 
 - **Breite:** Bei mittiger Montage über dem 50 cm breiten Becken steht der Schrank seitlich jeweils 5 cm über. Das wirkt grundsätzlich gut proportioniert; die freie Wandbreite und Türöffnung sind noch zu prüfen.
 - **Tiefe:** 15 cm ist eine schlanke Ausführung. Trotzdem mit dem 35 cm tiefen Becken abgleichen, ob Händewaschen und Vorbeugen bequem bleiben.
-- **Höhe:** 95 cm ist der entscheidende Prüfpunkt. Die vorhandene Wandleuchte sitzt oberhalb des kleinen Spiegels. Ohne Messung lässt sich nicht bestätigen, dass der hohe Schrank darunter passt. Die Spiegeltüren dürfen beim Öffnen weder Leuchte noch Armatur berühren.
-- **Höhenbeispiel, keine Montageempfehlung:** Unterkante Schrank 115 cm über Boden ergibt Oberkante 210 cm. Darüber braucht die vorhandene Leuchte passenden Freiraum gemäß ihren Anforderungen. Die Unterkante muss zugleich ausreichend über der Armatur liegen und der Spiegel für die Nutzer gut funktionieren.
+- **Höhe und Beleuchtung:** Nachgereichte Nutzerangaben: Unterkante der bisherigen Leuchte 170 cm über Boden, höchster Punkt der Armatur 102 cm. Der gewünschte Schrank hat eine eigene integrierte Beleuchtung; die bisherige separate Wandleuchte entfällt in dieser Variante. Der Nutzer möchte zunächst die Optik vergleichen.
+- **Lichtbild:** Das ergänzte Produktfoto zeigt dezente Lichtleisten oben und seitlich, keine durchgehend leuchtende Unterkante. Die erste Darstellung mit starkem umlaufendem Licht wurde entsprechend korrigiert.
 - **Gestaltung:** Weiß passt zur Keramik; das offene Fach bietet Platz für häufig benutzte Kleinteile. Darüber bzw. gegenüber am WC können flache Holzregale die vorhandenen Holztöne aufnehmen.
 
-**Vor einer Zusage messen:** Boden bis Unterkante Leuchte, Boden bis höchster Punkt der Armatur und Ausladung der Leuchte ab Fliesenwand. Den Schrankumriss von 60 × 95 cm an der Wand markieren und die 15 cm Tiefe mit Karton testen. Seitlichen Platz für Türen sowie Befestigung nach Montageanleitung prüfen. Wenn die Leuchte bleiben soll und die Höhe nicht reicht, einen niedrigeren Spiegelschrank suchen. Ein Versetzen der Leuchte wäre ein eigener Arbeitsschritt.
+**Optikvergleich:** [Visualisierungen](visualisierungen/README.md) zeigen Weiß in zwei Höhen sowie Eichenachbildung in der höheren Anordnung. Auf Wunsch wurde der Schrank optisch etwa 8–10 cm höher gesetzt. Eine konkrete Montagehöhe oder Farbentscheidung ist damit noch nicht festgelegt. Vor Umsetzung Türöffnung, Befestigung und Anschluss anhand der konkreten Montageanleitung abgleichen.
 
-Status: **interessanter Kandidat, Passform wegen Leuchte und Montagehöhe noch offen**.
+Status: **Optikvarianten erstellt; endgültige Farbe und Montagehöhe noch offen**.
 
 ## Mögliche Suchrichtungen
 
