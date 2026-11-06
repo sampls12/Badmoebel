@@ -11,13 +11,15 @@ Es sind noch keine Möbel ausgewählt oder Käufe beschlossen. Maße und baulich
 ## Bad unten
 
 - [Raum, Wünsche und Maße](bad-unten/planung.md)
+- [Fotoanalyse und erste Varianten](bad-unten/fotoanalyse.md)
+- [Gezielte Messliste für Waschplatz und WC](bad-unten/messliste.md)
 - [Möbelideen und Varianten](bad-unten/ideen.md)
 - [Einkaufsliste](bad-unten/einkaufsliste.md)
 - [Fotos und Skizzen](bad-unten/fotos/README.md)
 
 ## Nächster Schritt
 
-Ein paar Übersichtsfotos vom Bad im Chat teilen. Wenn schon vorhanden, eine einfache Skizze oder grobe Maße ergänzen. Daraus leiten wir ab, welche Stellen genauer ausgemessen werden müssen.
+Die drei hochgeladenen Fotos sind ausgewertet. Als Nächstes die [gezielte Messliste](bad-unten/messliste.md) ergänzen. Danach vergleichen wir passende Unterschränke und Stauraumlösungen oberhalb der WC-Vorwand.
 
 ## So halten wir die Planung fest
 

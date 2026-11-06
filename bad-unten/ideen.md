@@ -1,6 +1,6 @@
 # Bad unten – Möbelideen
 
-Noch keine konkrete IKEA-Serie oder Abmessung ausgewählt. Zuerst prüfen wir Raum und Anschlüsse.
+Die ersten raumbezogenen Varianten stehen in der [Fotoanalyse](fotoanalyse.md). Noch kein konkretes Möbel oder IKEA-Modell als passend bestätigt; dafür fehlen die [Maße](messliste.md).
 
 ## Mögliche Suchrichtungen
 

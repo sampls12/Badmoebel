@@ -1,8 +1,12 @@
 # Fotos und Skizzen – Bad unten
 
-Hier können später die für die Planung ausgewählten Bilder und Skizzen abgelegt werden. Bisher sind keine Bilder vorhanden.
+Hier liegen die drei vom Nutzer hochgeladenen Fotos:
 
-Zum Einstieg die Fotos im Chat teilen. Danach können wir gemeinsam die räumlichen Angaben in der [Planung](../planung.md) ergänzen.
+- [IMG_1340.jpeg](IMG_1340.jpeg): Überblick mit Waschplatz, WC und Vorwandablage.
+- [IMG_1341.jpeg](IMG_1341.jpeg): Waschbecken von vorne, einschließlich Siphon und Wasseranschlüssen.
+- [IMG_1342.jpeg](IMG_1342.jpeg): Waschbecken von oben; Datei liegt seitlich gedreht vor.
+
+Die [erste Auswertung](../fotoanalyse.md) und eine [Messliste](../messliste.md) sind vorhanden. Die Originalfotos bleiben unverändert.
 
 Hilfreiche Motive:
 
