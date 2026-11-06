@@ -29,7 +29,19 @@ Front- und Seitenansicht mit eingetragenen Höhen bzw. Siphonmaß sind vorhanden
 
 Für die spätere Montage wird außerdem geklärt, wie die obere Rückwand aufgebaut ist und wo sicher befestigt werden kann. Maße allein beantworten diese Frage nicht.
 
-## C. Drei kurze Angaben
+## C. Zusätzliche Maße für den vorgeschlagenen Spiegelschrank
+
+Kandidat aus dem Chat: **60 cm breit, 15 cm tief, 95 cm hoch**, siehe [Möbelideen](ideen.md).
+
+| Kürzel | Was messen? | Wert |
+| --- | --- | --- |
+| S1 | Boden bis Unterkante der vorhandenen Wandleuchte | offen |
+| S2 | Boden bis höchster Punkt der Armatur | offen |
+| S3 | Ausladung der Wandleuchte ab Fliesenwand | offen |
+
+Damit zunächst die mögliche Montagehöhe prüfen. Anschließend freie Breite und Türschwenkbereich am vorgesehenen Platz abgleichen. Der bestehende kleine Spiegel würde bei dieser Variante ersetzt. Ob die Leuchte bleiben soll, ist noch zu klären.
+
+## D. Drei kurze Angaben
 
 - Miete oder Eigentum; sind Bohrungen bzw. ein Austausch des Waschbeckens erlaubt?
 - Was soll verstaut werden: Toilettenpapier, kleine Gästehandtücher, große Handtücher, Putzmittel oder Kosmetik? Ungefähr welche Menge?
