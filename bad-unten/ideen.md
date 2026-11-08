@@ -14,9 +14,24 @@ Bewertete Platzierung: **über dem Waschbecken anstelle des vorhandenen Spiegels
 - **Lichtbild:** Das ergänzte Produktfoto zeigt dezente Lichtleisten oben und seitlich, keine durchgehend leuchtende Unterkante. Die erste Darstellung mit starkem umlaufendem Licht wurde entsprechend korrigiert.
 - **Gestaltung:** Weiß passt zur Keramik; das offene Fach bietet Platz für häufig benutzte Kleinteile. Darüber bzw. gegenüber am WC können flache Holzregale die vorhandenen Holztöne aufnehmen.
 
-**Optikvergleich:** [Visualisierungen](visualisierungen/README.md) zeigen Weiß in zwei Höhen sowie Eichenachbildung in der höheren Anordnung. Auf Wunsch wurde der Schrank optisch etwa 8–10 cm höher gesetzt. Eine konkrete Montagehöhe oder Farbentscheidung ist damit noch nicht festgelegt. Vor Umsetzung Türöffnung, Befestigung und Anschluss anhand der konkreten Montageanleitung abgleichen.
+**Optikvergleich:** [Visualisierungen](visualisierungen/README.md) zeigen Weiß in zwei Höhen sowie Eichenachbildung in der höheren Anordnung. Auf Wunsch wurde der Schrank optisch etwa 8–10 cm höher gesetzt. Für die weitere Planung wünscht der Nutzer den **weißen Spiegelschrank**. Eine konkrete Montagehöhe ist noch nicht festgelegt. Vor Umsetzung Türöffnung, Befestigung und Anschluss anhand der konkreten Montageanleitung abgleichen.
 
-Status: **Optikvarianten erstellt; endgültige Farbe und Montagehöhe noch offen**.
+Status: **Ausführung Weiß gewünscht; endgültige Montagehöhe noch offen**.
+
+## Zwei Unterschränke zum Optikvergleich
+
+Am 8. November 2026 vom Nutzer mit Produktbildern und Maßen vorgestellt. Hersteller-/Modellnamen und Angebotslinks sind noch offen. Maße als Breite × Tiefe × Höhe übernommen:
+
+| Variante | Außenmaße in cm | Front | Verhältnis zum vorhandenen Becken |
+| --- | --- | --- | --- |
+| Breit | 60 × 32 × 60 | Zwei nebeneinanderliegende Türen | Je 5 cm breiter als das Becken; nominell gleiche Breite wie der Spiegelschrank |
+| Schmal | 40 × 33 × 63 | Zwei übereinanderliegende Schubladen | Becken steht je 5 cm über die Schrankseiten hinaus |
+
+Beide [Vorschauen](visualisierungen/README.md) zeigen den weißen Spiegelschrank in der höheren Anordnung und den jeweiligen Unterschrank mittig unter dem unveränderten Becken. Die Varianten wurden wandhängend dargestellt; eine konkrete Montagehöhe oder Einbaukompatibilität ist damit nicht festgelegt.
+
+Gestalterisch wirkt der 60-cm-Schrank zusammen mit dem ebenso breiten Spiegelschrank geschlossener. Die schmale Variante lässt mehr Boden- und Wandfläche sichtbar. Technisch sind Keramikunterseite, Siphonraum, Ventilzugang und Befestigung gesondert zu prüfen; bei der Schubladenvariante kann der vorhandene Siphon mit dem Auszug kollidieren. Ein zusätzlicher passender Systemwaschtisch ist in keiner der beiden Ansichten ausgewählt.
+
+Status: **beide optisch dargestellt, noch kein Unterschrank ausgewählt oder als passend bestätigt**.
 
 ## Mögliche Suchrichtungen
 
